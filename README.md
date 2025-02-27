@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning new things .
 - 🌱 I’m currently learning ... new languages..
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...ashutoshkumar4231@gmail.com
+- 📫 How to reach me ...er.ashutoshkumar0208@gmail.com
 
 <!---
 kumarashutosh0208/kumarashutosh0208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
